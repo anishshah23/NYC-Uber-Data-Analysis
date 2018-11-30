@@ -1,0 +1,2 @@
+# NYC-Uber-Data-Analysis
+Using quantitative data analysis methods visualized Uber’s ridership growth, characterized the demand based on identified patterns in the time series, estimated the value of the NYC market for Uber and its revenue growth, analyzed the trip duration to determine the probability distribution model and also insights about the usage of the service. Technology: Python —Tools: Jupyter Notebook —Libraries: Pandas, Matplotlib, Seaborn, SQL, NumPy.
